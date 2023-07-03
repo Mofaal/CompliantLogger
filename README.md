@@ -1,4 +1,4 @@
-<h1>VehicleTracker</h1>
+<h1>ComplaintLogger</h1>
 I developed a program in Java called "ComplaintLogger" to facilitate the logging of complaints.
 <h2> Overview </h2>
 As a college student, I developed a program in Java called "ComplaintLogger" to facilitate the logging of complaints. This program demonstrates my proficiency in key Java skills and showcases my ability to create practical applications.
