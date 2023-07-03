@@ -14,7 +14,6 @@ Throughout the program, I employed variables and incrementation techniques to ke
 <h2> Java Skills Demonstrated: </h2>
 
 The Java skills demonstrated in this program are:
-The Java skills demonstrated in this program are:
 
 - Input/Output using JOptionPane: The code utilizes the JOptionPane class from the javax.swing package to display dialog boxes and prompt the user for input. It demonstrates the ability to interact with the user and gather information through graphical user interface components.
 
@@ -28,8 +27,9 @@ The Java skills demonstrated in this program are:
 
 
 <h2>Program Walk-Through</h2>
-<p align="center">
+
  Prompt for product input.
+<p align="center">
 <img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
