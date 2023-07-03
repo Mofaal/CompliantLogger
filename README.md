@@ -38,7 +38,7 @@ Prompt for date input.
 <br />
 Prompt for complaint input.
 <p align="center">
-<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iJDfxSV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Prompt for more complaints (Y/N).
 <p align="center">
