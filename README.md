@@ -14,19 +14,40 @@ Throughout the program, I employed variables and incrementation techniques to ke
 <h2> Java Skills Demonstrated: </h2>
 
 The Java skills demonstrated in this program are:
+The Java skills demonstrated in this program are:
 
-- Use of ArrayList: The program creates an ArrayList called cars to store a list of vehicles. It demonstrates how to create an ArrayList, add elements to it, access elements using the index, and modify elements.
+- Input/Output using JOptionPane: The code utilizes the JOptionPane class from the javax.swing package to display dialog boxes and prompt the user for input. It demonstrates the ability to interact with the user and gather information through graphical user interface components.
 
-- Looping: The program uses a for loop to iterate over the ArrayList and print each car. It initializes a loop variable (i) to iterate from 0 to the size of the ArrayList, and then accesses each element using the get() method.
+- String Manipulation: The code uses String variables to store and manipulate user input. It showcases skills related to working with strings, such as concatenation and comparison.
 
-- ArrayList methods: The program uses various ArrayList methods, such as add(), indexOf(), and set(). These methods allow adding elements to the ArrayList, finding the index of an element, and replacing an element at a specific index, respectively.
+- Looping: The code employs a do-while loop to handle multiple complaints. It allows the user to log multiple complaints until they choose to stop. This demonstrates proficiency in implementing loops and controlling program flow.
 
-- Printing output: The program uses System.out.println() to print the report title and the cars in the ArrayList. It demonstrates the basic usage of printing output to the console.
+- Formatted Output: The code utilizes the printf() method to display the logged complaints in a formatted manner. It demonstrates the ability to format and align text in the console output.
 
-- Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
+- Variable Manipulation: The code increments the complaintCount variable each time a complaint is logged. This showcases skills related to manipulating variables and keeping track of counts or statistics.
+
 
 <h2>Program Walk-Through</h2>
+<p align="center">
+ Prompt for product input.
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <p align="center">
+ Prompt for date input.
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+ Prompt for complaint input.
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Prompt for more complaints (Y/N).
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Print total complaints logged.
 <img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
